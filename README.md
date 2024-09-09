@@ -1,24 +1,22 @@
-# README
+# Point Transaction
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Ruby on Rails application for managing point transactions.
 
-Things you may want to cover:
+## Project Description
 
-* Ruby version
+The application provides APIs to handle single and bulk point transactions. It includes endpoints to create transactions and validate them.
 
-* System dependencies
+## Setup Instructions
 
-* Configuration
+### Prerequisites
 
-* Database creation
+- Ruby 2.7.8
+- Rails 7.1.2
+- PostgreSQL
 
-* Database initialization
+### Installation
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/haidang-lhd/point_transaction.git
+   cd point_transaction
