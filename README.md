@@ -105,3 +105,7 @@ Error: 422 Unprocessable Entity
     ]
 }
 ````
+
+
+Check coverage
+`open coverage/index.html`
