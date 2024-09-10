@@ -75,4 +75,5 @@ group :test do
   gem 'webdrivers'
   gem 'webmock'
   gem 'rspec-json_expectations'
+  gem 'simplecov', require: false
 end
